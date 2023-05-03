@@ -12,11 +12,11 @@ const Hero = () => {
                 <button
                     type='button'
                     onClick={() =>
-                        window.open("https://github.com/", "_blank")
+                        window.open("https://github.com/SoftWeb-Technologies/Devhubs-AI", "_blank")
                     }
                     className='black_btn'
                 >
-                    GitHub
+                    ☆ Star us on GitHub
                 </button>
             </nav>
 
