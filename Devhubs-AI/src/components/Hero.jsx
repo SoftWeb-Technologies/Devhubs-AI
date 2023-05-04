@@ -13,13 +13,13 @@ const Hero = () => {
           type="button"
           onClick={() =>
             window.open(
-              "https://github.com/SoftWeb-Technologies/Devhubs-AI",
+              "https://twitter.com/Devhubhq",
               "_blank"
             )
           }
           className="black_btn"
         >
-          ☆ Star us on GitHub
+          Follow us on Twitter
         </button>
       </nav>
 
